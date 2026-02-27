@@ -29,6 +29,13 @@ I don’t like surface-level knowledge. I prefer structure, clarity, and compete
 Applied AI project built in a competitive setting.
 <a href="https://github.com/sergiokutspires-droid/QuantumSpaghetti_Hackathon">View Repository</a>
 
+<b>Global Banks ETL Pipeline</b>  
+End-to-end data engineering project implementing an ETL pipeline to extract, transform, and load market capitalization data of the world's largest banks.  
+Includes web scraping, currency transformation, SQLite integration, SQL queries, and structured logging.  
+<a href="https://github.com/sergiokutspires/global-banks-etl-pipeline">View Repository</a>
+
+<br><br>
+
 More in development.
 
 
